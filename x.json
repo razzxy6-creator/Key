@@ -1,13 +1,3 @@
 {
-  "status": true,
-  "keys": [
-    {
-      "name": "",
-      "expired": ""
-    },
-    {
-      "name": "",
-      "expired": ""
-    }
-  ]
+  "x": "http://panel-legal.jhonaley.net:4266"
 }
